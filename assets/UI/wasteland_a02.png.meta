@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "05f3da85-03f8-4fd3-a184-aa2ee11015fc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 283,
+  "height": 251,
+  "platformSettings": {},
+  "subMetas": {
+    "wasteland_a02": {
+      "ver": "1.0.4",
+      "uuid": "0408d48b-8fca-4c2b-abf0-e030aaaf0012",
+      "rawTextureUuid": "05f3da85-03f8-4fd3-a184-aa2ee11015fc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 283,
+      "height": 251,
+      "rawWidth": 283,
+      "rawHeight": 251,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
