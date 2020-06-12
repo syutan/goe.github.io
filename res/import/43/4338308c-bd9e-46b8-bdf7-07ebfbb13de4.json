@@ -1,1 +1,1 @@
-{"__type__":"cc.SpriteFrame","content":{"name":"ui_icon_player00","texture":"67R8STMPtNd7iF1WP89aDw","rect":[19,6,294,331],"offset":[-2.5,-2],"originalSize":[337,339],"capInsets":[0,0,0,0]}}
+{"__type__":"cc.SpriteFrame","content":{"name":"ui_icon_player00","texture":"67R8STMPtNd7iF1WP89aDw","rect":[42,18,255,305],"offset":[-0.5,-0.5],"originalSize":[340,340],"capInsets":[0,0,0,0]}}
